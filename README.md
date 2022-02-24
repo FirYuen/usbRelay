@@ -1,1 +1,3 @@
-# usbRelay
+#usbRelay
+
+可以用来控制淘宝串口usb继电器模块
